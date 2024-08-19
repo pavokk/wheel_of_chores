@@ -7,6 +7,6 @@
     </head>
     <body style="background-color:#070D0D">
         <h1 style="text-align:center;color:#fbfbfb;">Heia Kamilla</h1>
-        <p>Love you like a polaroid picture</p>
+        <p style="text-align:center;color:#fbfbfb;">Love you like a polaroid picture</p>
     </body>
 </html>
