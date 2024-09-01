@@ -6,7 +6,7 @@
         <title>Wheel of chores</title>
     </head>
     <body style="background-color:#070D0D">
-        <h1 style="text-align:center;color:#fbfbfb;">Heia Kamilla</h1>
-        <p style="text-align:center;color:#fbfbfb;">Love you like a polaroid picture</p>
+        <h1 style="text-align:center;color:#fbfbfb;">Polaroid City</h1>
+        <h2 style="text-align:center;color:#fbfbfb;">Wheel of chores</h2>
     </body>
 </html>
