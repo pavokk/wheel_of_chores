@@ -6,7 +6,28 @@
         <title>Wheel of chores</title>
     </head>
     <body style="background-color:#070D0D">
-        <h1 style="text-align:center;color:#fbfbfb;">Polaroid City</h1>
-        <h2 style="text-align:center;color:#fbfbfb;">Wheel of chores</h2>
+
+        <header>
+
+            <h1 style="text-align:center;color:#fbfbfb;">Polaroid City</h1>
+            <h2 style="text-align:center;color:#fbfbfb;">Wheel of chores.</h2>
+
+        </header>
+
+        <main>
+
+            <ul>
+
+                @foreach ($db['chores'] as $chore)
+
+                <li>{{ $chore->name  }}</li>
+
+                @endforeach
+
+            </ul>
+
+
+        </main>
+
     </body>
 </html>
